@@ -1,0 +1,31 @@
+Data,Negozio,Prodotto,Quantità,Prezzo_unitario,Incasso,Categoria
+2023-12-10,Palermo,Hard Disk Esterno 2TB,5,85.0,425.0,Accessori Informatica
+2023-01-12,Milano,Monitor Gaming MSI,4,249.5,998.0,Accessori Informatica
+2023-08-30,Firenze,Smartwatch Apple Watch,3,429.0,1287.0,Wearable
+2023-06-21,Firenze,Tablet iPad Air,5,699.0,3495.0,Smartphone e Tablet
+2023-08-14,Palermo,MacBook Air M2,3,1129.0,3387.0,Informatica e PC
+2023-10-25,Palermo,Mouse Wireless Logitech,1,45.0,45.0,Accessori Informatica
+2023-08-26,Milano,Router Wi-Fi 6,1,115.0,115.0,Accessori Informatica
+2023-05-31,Palermo,Router Wi-Fi 6,5,115.0,575.0,Accessori Informatica
+2023-10-09,Palermo,iPhone 15,2,929.0,1858.0,Smartphone e Tablet
+2023-05-23,Milano,Hard Disk Esterno 2TB,4,85.0,340.0,Accessori Informatica
+2023-06-24,Roma,Hard Disk Esterno 2TB,2,85.0,170.0,Accessori Informatica
+2023-08-23,Bologna,Fotocamera Canon EOS,3,750.0,2250.0,TV e Multimedia
+2023-12-29,Palermo,Console PlayStation 5,5,499.0,2495.0,Gaming
+2023-08-07,Roma,Console PlayStation 5,1,499.0,499.0,Gaming
+2023-08-04,Napoli,Monitor Gaming MSI,4,249.5,998.0,Accessori Informatica
+2023-01-26,Firenze,Smart TV LG 55 pollici,3,549.99,1649.97,TV e Multimedia
+2023-12-09,Milano,Monitor Gaming MSI,1,249.5,249.5,Accessori Informatica
+2023-09-27,Roma,Cuffie Sony Noise Cancelling,4,299.0,1196.0,TV e Multimedia
+2023-12-06,Roma,Laptop ASUS Vivobook,5,649.5,3247.5,Informatica e PC
+2023-04-26,Napoli,iPhone 15,2,929.0,1858.0,Smartphone e Tablet
+2023-11-02,Napoli,Monitor Gaming MSI,2,249.5,499.0,Accessori Informatica
+2023-08-22,Torino,Smartwatch Apple Watch,3,429.0,1287.0,Wearable
+2023-06-02,Milano,Router Wi-Fi 6,3,115.0,345.0,Accessori Informatica
+2023-01-07,Milano,Smartphone Samsung Galaxy,4,799.0,3196.0,Smartphone e Tablet
+2023-10-16,Napoli,Router Wi-Fi 6,2,115.0,230.0,Accessori Informatica
+2023-01-29,Milano,Router Wi-Fi 6,5,115.0,575.0,Accessori Informatica
+2023-04-01,Torino,Hard Disk Esterno 2TB,5,85.0,425.0,Accessori Informatica
+2023-05-04,Napoli,Fotocamera Canon EOS,4,750.0,3000.0,TV e Multimedia
+2023-12-06,Roma,Hard Disk Esterno 2TB,5,85.0,425.0,Accessori Informatica
+2023-10-28,Milano,Monitor Gaming MSI,1,249.5,249.5,Accessori Informatica
